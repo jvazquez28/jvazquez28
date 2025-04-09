@@ -43,14 +43,14 @@ Data engineer and AI specialist with international experience in implementing da
 ## 📊 Featured Projects
 
 ### Data Analytics
-- **[dataAnalystAirbnb](#)** - EDA and Interactive Power BI dashboard about AirBnb properties and related investment opportunites
+- **[dataAnalystAirbnb](https://github.com/jvazquez28/dataAnalystAirbnb)** - EDA and Interactive Power BI dashboard about AirBnb properties and related investment opportunites
 
 ### Machine Learning
-- **[G1_ML_Airline](#)** - Supervised learning model to predic airline satisfaction.
+- **[G1_ML_Airline](https://github.com/jvazquez28/G1_ML_Airline)** - Supervised learning model to predic airline satisfaction.
 
 ### Generative AI
-- **[yenka_ia1](#)** - Foundation for an end-to-end stock analysis and trading tool.
-- **[Candidato Perfecto](#)** - Generative AI solution to evaluate job posts against resumes in order to classify candidates and improve hiring metrics 
+- **[yenka_ia1](https://github.com/jvazquez28/yenka_ia1)** - Foundation for an end-to-end stock analysis and trading tool.
+- **[Candidato Perfecto](https://github.com/AI-School-F5-P3/candidato_perfecto)** - Generative AI solution to evaluate job posts against resumes in order to classify candidates and improve hiring metrics 
 
 ## 📚 Certifications
 - Microsoft Certified: DP-600 Fabric Analytics Engineer Associate
@@ -111,14 +111,14 @@ Ingeniero de datos y especialista en IA con experiencia internacional en la impl
 ## 📊 Proyectos Destacados
 
 ### Análisis de Datos
-- **[dataAnalystAirbnb](#)** - AED y reportes y tablero interactivo de Power Bi respecto a propiedades de AirBnB
+- **[dataAnalystAirbnb](https://github.com/jvazquez28/dataAnalystAirbnb)** - AED y reportes y tablero interactivo de Power Bi respecto a propiedades de AirBnB
 
 ### Machine Learning
-- **[G1_ML_Airline](#)** - Modelo de aprendizaje supervisado para predecir satisfacción de los clientes
+- **[G1_ML_Airline](https://github.com/jvazquez28/G1_ML_Airline)** - Modelo de aprendizaje supervisado para predecir satisfacción de los clientes
 
 ### IA Generativa
-- **[yenka_ia1](#)** - Pasos iniciales de la solución de trading que estoy ideando
-- **[Candidato Perfecto](#)** - Proyecto de IA Generativa que clasifica curriculum vitae respecto a su afinidad con una vacante específica. Se utiliza análisis semántico y lógica tradicional.
+- **[yenka_ia1](https://github.com/jvazquez28/yenka_ia1)** - Pasos iniciales de la solución de trading que estoy ideando
+- **[Candidato Perfecto](https://github.com/AI-School-F5-P3/candidato_perfecto)** - Proyecto de IA Generativa que clasifica curriculum vitae respecto a su afinidad con una vacante específica. Se utiliza análisis semántico y lógica tradicional.
 
 ## 📚 Certificaciones
 - Microsoft Certified: DP-600 Fabric Analytics Engineer Associate
